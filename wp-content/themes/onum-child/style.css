@@ -1,0 +1,14 @@
+/*
+Theme Name:     Onum Child
+Theme URI:      http://wpdemo.archiwp.com/onum/
+Description:    Make your modifications to [Parent Theme] in this child theme.
+Author:         Oceanthemes
+Author URI:     http://oceanthemes.net/
+Version:        1.0
+Template:       onum
+*/
+
+@import url("../onum/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
